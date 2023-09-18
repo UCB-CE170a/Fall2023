@@ -13,7 +13,7 @@ This Github repository holds the Python-related exercises, quizzes, and assignme
 
 
 ### Quizzes
-  * TBD
+  * Quiz 1: [Model Bridge Experiment Theoretical and FEM Analysis](https://github.com/UCB-CE170a/Fall2023/tree/main/Homework/Homework2)
   
 ### Homework
-  * TBD
+  * Homework 2: [Model Bridge Experiment Data Analysis](https://github.com/UCB-CE170a/Fall2023/tree/main/Homework/Homework2)
