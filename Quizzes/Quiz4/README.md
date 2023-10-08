@@ -10,7 +10,7 @@ Below is a visualization of the input files and output files. As you can see, ou
 The outcome you will need to obtain is:
 * number of vehicles using each road link (traffic volume)
 
-Save the output to a csv file titled `quiz5_yourname.csv` and submit it. The first few lines of your submission may look like the table below (numbers may be different).
+Save the output to a csv file titled `quiz4_yourname.csv` and submit it. The first few lines of your submission may look like the table below (numbers may be different).
 
 | link_id | volume |
 |---------|--------|
@@ -24,4 +24,4 @@ Save the output to a csv file titled `quiz5_yourname.csv` and submit it. The fir
 
 Click the icon below to start:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UCB-CE170a/Fall2023/blob/main/Quizzes/Quiz5/Fall2023_quiz4_student.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UCB-CE170a/Fall2023/blob/main/Quizzes/Quiz4/Fall2023_quiz4_student.ipynb)
