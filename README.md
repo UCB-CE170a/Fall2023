@@ -14,6 +14,8 @@ This Github repository holds the Python-related exercises, quizzes, and assignme
 
 ### Quizzes
   * Quiz 1: [Model Bridge Experiment Theoretical and FEM Analysis](https://github.com/UCB-CE170a/Fall2023/tree/main/Homework/Homework2)
+  * Quiz 4: [All or Nothing Traffic Analysis](https://github.com/UCB-CE170a/Fall2023/tree/main/Quizzes/Quiz4)
+  * Quiz 5: [Spatial Queue Traffic Analysis](https://github.com/UCB-CE170a/Fall2023/tree/main/Quizzes/Quiz5)
   
 ### Homework
   * Homework 2: [Model Bridge Experiment Data Analysis](https://github.com/UCB-CE170a/Fall2023/tree/main/Homework/Homework2)
