@@ -57,11 +57,11 @@ Upload `contraflow_links_[yourname].csv` under the `traffic_inputs` folder. Run 
 
 ## Submission
 Your submissions consist of two parts:
-1. TBD, 11:59 pm PDT: 
+1. 10/22/23, 11:59 pm PDT: 
     * A CSV file, titled `contraflow_links_[yourname].csv` that reflects the changes in the network according your contraflow strategy.
     * Time stepped arrival counts: `t_stats_base_[yourname].csv` and `t_stats_contraflow_[yourname].csv`. These are outputs from the simulation code.
     * Some text justifying your selection of contraflow locations.
-2. TBD, 11:59 PM PDT:
+2. 10/30/23, 11:59 PM PDT:
     * Report. Since the report will be due after we have reviewed the contraflow locations and results of the whole class, it is okay to update your contraflow locations in the report compared to what you submitted on TBD. The report should include at least the following parts:
       * Introduction
       * Model description and assumptions
